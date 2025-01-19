@@ -1,0 +1,24 @@
+post_id,user_ID,post_type,date_posted,post_url
+1,1,text,2023-11-21 7:32,/consciouscloset/users/1/posts/1
+2,2,photo,2023-11-21 9:18,/consciouscloset/users/2/posts/2
+3,3,video,2023-11-21 11:03,/consciouscloset/users/3/posts/3
+4,4,text,2023-11-21 12:49,/consciouscloset/users/4/posts/4
+5,5,photo,2023-11-22 2:35,/consciouscloset/users/5/posts/5
+6,6,video,2023-11-22 4:21,/consciouscloset/users/6/posts/6
+7,7,text,2023-11-22 6:06,/consciouscloset/users/7/posts/7
+8,8,photo,2023-11-22 7:52,/consciouscloset/users/8/posts/8
+9,9,video,2023-11-22 9:38,/consciouscloset/users/9/posts/9
+10,10,text,2023-11-22 11:24,/consciouscloset/users/10/posts/10
+11,11,photo,2023-11-22 1:09,/consciouscloset/users/11/posts/11
+12,12,video,2023-11-22 2:55,/consciouscloset/users/12/posts/12
+13,13,text,2023-11-22 4:41,/consciouscloset/users/13/posts/13
+14,14,photo,2023-11-22 6:27,/consciouscloset/users/14/posts/14
+15,15,video,2023-11-22 8:13,/consciouscloset/users/15/posts/15
+16,16,text,2023-11-22 9:58,/consciouscloset/users/16/posts/16
+17,17,photo,2023-11-22 11:44,/consciouscloset/users/17/posts/17
+18,18,video,2023-11-22 1:30,/consciouscloset/users/18/posts/18
+19,19,text,2023-11-22 3:16,/consciouscloset/users/19/posts/19
+20,20,photo,2023-11-22 5:01,/consciouscloset/users/20/posts/20
+21,21,video,2023-11-22 6:47,/consciouscloset/users/21/posts/21
+22,22,text,2023-11-22 8:33,/consciouscloset/users/22/posts/22
+23,23,photo,2023-11-22 10:19,/consciouscloset/users/23/posts/23

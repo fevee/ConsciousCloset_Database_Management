@@ -1,0 +1,25 @@
+user_id,username,email,password,registration_date
+1,fevee,fetvaquilar@gmail.com,password123,2023-11-18 8:32
+2,bob_jones,bob@email.com,bob_secure_password,2023-11-18 10:15
+3,charlie_doe,charlie@email.com,super_secret_password,2023-11-18 11:45
+4,dave_wilson,dave@email.com,dave_password,2023-11-19 1:23
+5,emma_jackson,emma@email.com,emma_secure_password,2023-11-19 3:42
+6,frank_brown,frank@email.com,frank_secret_password,2023-11-19 6:17
+7,grace_miller,grace@email.com,grace_password,2023-11-19 8:54
+8,harry_taylor,harry@email.com,harry_secure_password,2023-11-19 11:31
+9,izzy_carter,izzy@email.com,izzy_password,2023-11-19 2:09
+10,jack_evans,jack@email.com,jack_secure_password,2023-11-19 5:47
+11,kate_hill,kate@email.com,kate_password,2023-11-20 12:30
+12,leo_jenkins,leo@email.com,leo_secure_password,2023-11-20 3:08
+13,mia_scott,mia@email.com,mia_password,2023-11-20 5:44
+14,noah_white,noah@email.com,noah_secure_password,2023-11-20 8:21
+15,olivia_harris,olivia@email.com,olivia_password,2023-11-20 10:58
+16,peter_wood,peter@email.com,peter_secure_password,2023-11-20 1:35
+17,quinn_adams,quinn@email.com,quinn_password,2023-11-21 5:20
+18,rose_baker,rose@email.com,rose_secure_password,2023-11-21 7:57
+19,sam_clark,sam@email.com,sam_password,2023-11-21 10:33
+20,tom_wilkins,tom@email.com,tom_secure_password,2023-11-21 1:10
+21,uma_davis,uma@email.com,uma_password,2023-11-21 3:47
+22,vince_morgan,vince@email.com,vince_password,2023-11-21 6:24
+23,wendy_ross,wendy@email.com,wendy_password,2023-11-21 9:00
+24,aya_papaya,iavaquilar@gmail.com,aya_PaSSword,2023-12-05

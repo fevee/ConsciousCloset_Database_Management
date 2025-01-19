@@ -1,0 +1,14 @@
+certification_id	name	description	website
+1	Global Organic Textile Standard (GOTS)	"Ensures organic status from raw materials to manufacturing, guaranteeing organic fibers and strict criteria for processing and labor conditions."	https://www.global-standard.org/
+2	Fairtrade	"Focuses on fair wages, ethical treatment of workers, and community development. "	https://www.fairtrade.net/
+3	OEKO-TEX Standard 100	"Certifies textiles free from harmful substances, ensuring products are tested for health risks and emphasizing consumer safety."	https://www.oeko-tex.com/
+4	Bluesign	"Focuses on the environmental impact of textile production, ensuring resource efficiency, worker safety, and reduced environmental impact."	https://www.bluesign.com/
+5	Cradle to Cradle (C2C)	"Assesses products for environmental and social performance throughout their life cycle, encouraging continuous improvement and safe disposal."	https://www.c2ccertified.org/
+6	B Corp Certification	"Signifies high standards of social and environmental performance, balancing purpose and profit for positive impact."	https://bcorporation.net/
+7	PETA Approved Vegan	"Certifies products without animal-derived materials, assuring consumers of ethical and cruelty-free practices."	https://www.peta.org/
+8	Carbon Trust Standard	"Recognizes organizations committed to reducing their carbon footprint, demonstrating a transparent commitment to sustainability."	https://www.carbontrust.com/
+9	Better Cotton Initiative	Promotes better standards in cotton farming with a focus on environmental and social sustainability.	https://bettercotton.org/
+10	Forest Stewardship Council (FSC)	"Identifies responsibly sourced forest products, applicable to fabrics, clothing, footwear, packaging, and tags made from FSC-certified materials."	https://fsc.org/en/
+11	Climate Neutral	"Focuses on reducing and offsetting carbon emissions in clothing production, contributing to a carbon-neutral industry."	https://www.climateneutral.org/
+12	SA8000 Standard	"Audits and certifies clothing brands for adherence to international labor standards, ensuring ethical treatment of workers."	https://sa-intl.org/programs/sa8000/
+13	Responsible Wool Standard (RWS)	"Ensures responsible practices in wool production, covering animal welfare, land management, and worker welfare."	https://rws.verified.org/

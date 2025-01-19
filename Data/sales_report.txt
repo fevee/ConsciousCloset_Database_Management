@@ -1,0 +1,12 @@
+Changed database context to 'ConsciousCloset'.
+Report Date: Dec 14 2023  9:46AM
+Sales Report: Secondhand Items Sold and Their Prices
+secondhand_item_id secondhand_item_name                               size date_listed             price     user_id     username                 
+------------------ -------------------------------------------------- ---- ----------------------- --------- ----------- -------------------------
+                 3 Leather Jacket                                     L    2023-11-20 10:20:00.000     83.78           3 charlie_doe              
+                10 Leather Shoulder Bag                               O/S  2023-11-27 17:25:00.000     41.76          10 jack_evans               
+                16 Wool Gloves                                        M    2023-12-03 14:10:00.000    200.34          16 peter_wood               
+                24 Green Plaid Shirt                                  XL   2023-12-05 10:45:00.000     18.31          24 aya_papaya               
+                18 Canvas Backpack                                    O/S  2023-12-05 18:45:00.000     12.48          18 rose_baker               
+Total Sales Amount: $356.67
+End of Report

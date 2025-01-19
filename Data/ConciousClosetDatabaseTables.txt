@@ -1,0 +1,60 @@
+Tables in ConciousCloset Database:
+
+Users:
+user_id int (PK)
+username VARCHAR(25) NOT NULL
+email nVARCHAR(50) NOT NULL
+password VARCHAR(25) NOT NULL
+registration_date DATETIME NOT NULL
+
+Brands:
+brand_id int (PK)
+brand_name nVARCHAR NOT NULL
+description nVARCHAR(250) NOT NULL
+
+BrandFollowers:
+user_id int NOT NULL (PK, FK1, references Users.user_id)
+brand_id int NOT NULL (PK, FK2, references Brands.brand_id)
+follow_date DATETIME NOT NULL
+
+UserFollowers:
+follower_user_id int NOT NULL (PK, FK1, references Users.user_id)
+followed_user_id int NOT NULL (PK, FK2, references Users.user_id)
+follow_date DATETIME NOT NULL
+
+Certifications:
+certification_id int (PK)
+certification_name nVARCHAR (100) NOT NULL
+description nVARCHAR(250) NOT NULL
+website nVARCHAR(100) NOT NULL
+
+BrandCertifications:
+brand_id int (PK, FK1, references Brands.brand_id)
+certification_id (PK, FK2, references Certifications.certification_id)
+date_added DATETIME NOT NULL
+
+SecondHand_Items
+secondhand_item_id int (PK)
+seller_user_id int NOT NULL (FK, references Users.user_id)
+secondhand_item_name nVARCHAR (50) NOT NULL
+size VARCHAR(3) NOT NULL (e.g., XS, S, M, L, XL, 0, 2, 30, 34)
+description nVARCHAR(250) 
+status VARCHAR(10) NOT NULL (e.g., Listed, Sold)
+
+Posts
+post_id int (PK)
+user_ID int (FK, references Users.user_id) NOT NULL
+post_type VARCHAR(10) NOT NULL (e.g., text, photo, video reel)
+date_posted DATETIME NOT NULL
+
+Relationships:
+- A user can follow many brands.
+- A brand may have many users following it.
+- A user can follow many other users.
+- A user may be followed by many other users.
+- A brand will have at least one or many certifications associated to it to verifiy its sustainable credibility. 
+- A certification can be associated with many brands.
+- Users can list many second-hand items for sale.
+- A secondhand item will have one user listed as a seller.
+- Users can share many posts: text, photo, or video.
+- A post will have one user listed as the poster.
